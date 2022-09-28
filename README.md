@@ -16,6 +16,10 @@ Data Engineering Convention.
 - notebooks: para análisis de datos utilizados o resultados del modelo
 - src: código principal, configuración de pipelines y nodes.
 
+# Pesos del modelo en
+
+[Drive](https://drive.google.com/drive/folders/1r1qIzRU8dOtc7VNF7GNCN1cCDvNjsv7n?usp=sharing)
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
