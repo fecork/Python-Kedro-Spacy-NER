@@ -1,4 +1,4 @@
-# GPT TEXT CLASSIFICATION TPT FARE
+# Spacy NER test with Kedro
 
 _Descripción del Proyecto_
 
